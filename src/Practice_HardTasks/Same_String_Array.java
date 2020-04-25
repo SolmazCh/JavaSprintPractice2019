@@ -1,9 +1,8 @@
-package day22_Arrays_Loops;
+package Practice_HardTasks;
 
 import java.util.Arrays;
 
 public class Same_String_Array {
-
     /*
      write a program that can check if two Strings are build out of same
         Ex:
@@ -14,51 +13,33 @@ public class Same_String_Array {
             Hint: you will need array and Arrays' methods
 
      */
-
     public static void main(String[] args) {
 
+        String str1 ="aabbbc";
+        String str2 ="cabbc";
 
-        String str1 = "aabbbc";
-        String str2 = "bac";
-        String nonDub ="";
-
-        String nonDub2="";
+        String nonDup="";
+        String nonDup2="";
 
         for(int i=0; i<str1.length(); i++){
-
-            if(!nonDub.contains(""+str1.charAt(i))){
-                nonDub+=str1.charAt(i);
+            if(!nonDup.contains(""+str1.charAt(i))){
+                nonDup+=str1.charAt(i);
             }
         }
-
 
         for(int i=0; i<str2.length(); i++){
-
-            if(!nonDub2.contains(""+str2.charAt(i))){
-                nonDub2+=str2.charAt(i);
+            if (!nonDup2.contains(""+str2.charAt(i))){
+                nonDup2+=str2.charAt(i);
             }
         }
+      char[] ch1 = nonDup.toCharArray();
 
-
-        char[] ch1 =nonDub.toCharArray();
-
-        char[]  ch2 =nonDub2.toCharArray();
+        char[] ch2 =nonDup2.toCharArray();
 
         Arrays.sort(ch1);
-
         Arrays.sort(ch2);
 
-
         System.out.println(Arrays.equals(ch1,ch2));
-
-
-
-
-
-
-
-
-
 
 
 

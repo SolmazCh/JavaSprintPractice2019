@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e2384e-029a-4eaa-a33b-704875b89869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Birthday_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Same_String_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/descending.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/Dates_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/Dates_Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/unique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/unique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/uniquearray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/uniquearray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Replit_Solutions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/descending.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/descending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/frequency2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/frequency2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/unique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/uniquearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/uniquearray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Replit_Solutions/addtoarray149.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_Loops/descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_Loops/descending.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_Loops/forEach_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_Loops/forEach_practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +58,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Practice_HardTasks" />
       <recent name="Resources" />
       <recent name="day08_IfStatements" />
       <recent name="Quiz_Practice" />
       <recent name="day04_JavaRrcap" />
-      <recent name="day02_Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTime_Formatting">
-    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime" />
+  <component name="RunManager" selected="Application.Same_String_Array">
+    <configuration name="Same_String_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.Same_String_Array" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime_Formatting" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_MultiDimensionalArrays.StringMethods" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day21_MultiDimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Datetime2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Datetime2" />
+    <configuration name="Stringmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.Stringmethod" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time" />
+    <configuration name="descending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22_Arrays_Loops.descending" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day22_Arrays_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time_Formatting" />
+    <configuration name="reverse_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22_Arrays_Loops.reverse_Array" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day22_Arrays_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateTime_Formatting" />
-        <item itemvalue="Application.Datetime2" />
-        <item itemvalue="Application.DateTime" />
-        <item itemvalue="Application.Time_Formatting" />
-        <item itemvalue="Application.Time" />
+        <item itemvalue="Application.Same_String_Array" />
+        <item itemvalue="Application.reverse_Array" />
+        <item itemvalue="Application.Stringmethod" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.descending" />
       </list>
     </recent_temporary>
   </component>
@@ -165,32 +182,32 @@
     </state>
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587083853237" />
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669539206" />
-    <state width="1481" height="194" key="GridCell.Tab.0.bottom" timestamp="1587744036560">
+    <state width="1481" height="194" key="GridCell.Tab.0.bottom" timestamp="1587820842753">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036560" />
+    <state width="1481" height="194" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587820842753" />
     <state width="1362" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1537" height="239" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586518688253" />
-    <state width="1481" height="194" key="GridCell.Tab.0.center" timestamp="1587744036558">
+    <state width="1481" height="194" key="GridCell.Tab.0.center" timestamp="1587820842753">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036558" />
+    <state width="1481" height="194" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587820842753" />
     <state width="1362" height="175" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1537" height="239" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586518688253" />
-    <state width="1481" height="194" key="GridCell.Tab.0.left" timestamp="1587744036558">
+    <state width="1481" height="194" key="GridCell.Tab.0.left" timestamp="1587820842753">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036558" />
+    <state width="1481" height="194" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587820842753" />
     <state width="1362" height="175" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1537" height="239" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586518688252" />
-    <state width="1481" height="194" key="GridCell.Tab.0.right" timestamp="1587744036560">
+    <state width="1481" height="194" key="GridCell.Tab.0.right" timestamp="1587820842753">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036560" />
+    <state width="1481" height="194" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587820842753" />
     <state width="1362" height="175" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1537" height="239" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586518688253" />
     <state width="1537" height="259" key="GridCell.Tab.1.bottom" timestamp="1586897184602">

@@ -10,7 +10,7 @@ public class forEach_practice {
                 {10,11,12,13,14},
                 {15,16,17,18,19,20,21}
         };
-        // 1. print all even numbers ina same line
+        // 1. print all even numbers in a same line
         // 2. count odd numbers ==> return the total odd number
 
 

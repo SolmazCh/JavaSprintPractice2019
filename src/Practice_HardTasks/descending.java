@@ -1,4 +1,4 @@
-package day22_Arrays_Loops;
+package Practice_HardTasks;
 
 import java.util.Arrays;
 /*
