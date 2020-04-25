@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e2384e-029a-4eaa-a33b-704875b89869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Birthday_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/Dates_Formatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/Dates_Formatting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/uniquearr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/uniquearr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/Dates_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day27_DateTime/Dates_Practice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +48,13 @@
       <recent name="day02_Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dates">
-    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates" />
+  <component name="RunManager" selected="Application.DateTime_Formatting">
+    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dates_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates_Formatting" />
+    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime_Formatting" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dates_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates_Practice" />
+    <configuration name="Datetime2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Datetime2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Minimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Find_Minimum" />
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unique_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.unique_Arrays" />
+    <configuration name="Time_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time_Formatting" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.Dates_Practice" />
-        <item itemvalue="Application.Dates_Formatting" />
-        <item itemvalue="Application.unique_Arrays" />
-        <item itemvalue="Application.Find_Minimum" />
+        <item itemvalue="Application.DateTime_Formatting" />
+        <item itemvalue="Application.Datetime2" />
+        <item itemvalue="Application.DateTime" />
+        <item itemvalue="Application.Time_Formatting" />
+        <item itemvalue="Application.Time" />
       </list>
     </recent_temporary>
   </component>
@@ -168,32 +165,32 @@
     </state>
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587083853237" />
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669539206" />
-    <state width="1481" height="194" key="GridCell.Tab.0.bottom" timestamp="1587686657797">
+    <state width="1481" height="194" key="GridCell.Tab.0.bottom" timestamp="1587744036560">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587686657797" />
+    <state width="1481" height="194" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036560" />
     <state width="1362" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1537" height="239" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586518688253" />
-    <state width="1481" height="194" key="GridCell.Tab.0.center" timestamp="1587686657797">
+    <state width="1481" height="194" key="GridCell.Tab.0.center" timestamp="1587744036558">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587686657797" />
+    <state width="1481" height="194" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036558" />
     <state width="1362" height="175" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1537" height="239" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586518688253" />
-    <state width="1481" height="194" key="GridCell.Tab.0.left" timestamp="1587686657797">
+    <state width="1481" height="194" key="GridCell.Tab.0.left" timestamp="1587744036558">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587686657797" />
+    <state width="1481" height="194" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036558" />
     <state width="1362" height="175" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1537" height="239" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586518688252" />
-    <state width="1481" height="194" key="GridCell.Tab.0.right" timestamp="1587686657797">
+    <state width="1481" height="194" key="GridCell.Tab.0.right" timestamp="1587744036560">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="194" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587686657797" />
+    <state width="1481" height="194" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587744036560" />
     <state width="1362" height="175" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1537" height="239" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586518688253" />
     <state width="1537" height="259" key="GridCell.Tab.1.bottom" timestamp="1586897184602">
