@@ -47,6 +47,17 @@ public class ParseMethods {
 
         System.out.println(r1);
 
+        String result2 ="TrUe";  // returns true
+
+        boolean r2=Boolean.parseBoolean(result2);
+
+        System.out.println(r2);
+
+        String result3 = "fAlSe"; // false
+
+        boolean r3 = Boolean.parseBoolean(result2);  // ignores the case sensitivity
+
+        System.out.println(r3);  //false
 
     }
 }
