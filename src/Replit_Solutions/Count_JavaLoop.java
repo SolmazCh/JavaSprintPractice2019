@@ -22,6 +22,8 @@ output: 3
 
         int result = 0;
 
+
+
         for (int i = 0; i < word.length() - 1; i++) {
 
             if (word.contains("java")) {

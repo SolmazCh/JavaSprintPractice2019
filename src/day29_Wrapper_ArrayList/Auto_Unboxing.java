@@ -15,6 +15,12 @@ public class Auto_Unboxing {
 
 
 
+        int k=10;
+        Integer j =k; //autoboxing
+
+        Byte b1 =9;
+
+        byte bb =b1; //unboxing
 
 
 

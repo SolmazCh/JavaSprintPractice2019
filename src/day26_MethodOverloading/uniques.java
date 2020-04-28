@@ -3,7 +3,8 @@ package day26_MethodOverloading;
 public class uniques {
 
     /*
-    2. use the above method to create another called uniques that accepts a string parameter and returns it's unique characters as String
+    2. use the above method to create another called uniques that accepts a string parameter
+             and returns it's unique characters as String
 			Ex: uniques("ABBC"); 		==> "AC"
 				uniques("Cybertek");  	==> "cybrtk"
      */

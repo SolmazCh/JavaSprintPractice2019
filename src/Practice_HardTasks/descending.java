@@ -10,18 +10,18 @@ public class descending {
 
     public static void main(String[] args) {
 
-        int[] arr ={4,6,8,3,9,6,3,2,0};
+        int[] arr ={1,5,6,8,3,9,5,0,2};
 
-        int[] result =new int[arr.length];
+        int[] rev = new int[arr.length];
+
         Arrays.sort(arr);
 
         int k=0;
         for(int i=arr.length-1; i>=0; i--){
-            result[k]+=arr[i];
+            rev[k]=arr[i];
             k++;
         }
 
-        System.out.println(Arrays.toString(result));
-
+        System.out.println(Arrays.toString(rev));
     }
 }

@@ -5,12 +5,14 @@ import java.time.LocalDate;
 public class Birthday_ {
     public static void main(String[] args) {
 
-         //LocalDate birthday = LocalDate.of(year, month, day);
+        LocalDate birthday = LocalDate.of(1990, 4, 25);
         LocalDate today = LocalDate.now();
         int month2 = today.getMonthValue();
         int day2 = today.getDayOfMonth();
+        int month = birthday.getMonthValue();
+        int day = birthday.getDayOfMonth();
 
-       // if (month2 == month && day == day2) {
+        if (month2 == month && day == day2) {
             System.out.println("Today is your birthday!!!");
             System.out.println("   \n \t \t  \t \t    * * * * * * * * * * * * * * * * * * * * *");
             System.out.println("   \t \t  \t \t  *  * * * * * * * * * * * * * * * * * * * *  * ");
@@ -22,7 +24,10 @@ public class Birthday_ {
             return;
         }
 
-           // System.out.println("Today is not your birthday yet");
+        System.out.println("Today is not your birthday yet");
 
 
     }
+
+
+}
