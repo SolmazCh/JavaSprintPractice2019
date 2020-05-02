@@ -10,5 +10,20 @@ public class Stringmethod {
          */
 
 
+         String str = "Today is a great day";
+         String result ="";
+
+        String[] arr = str.split(" ");
+
+        for(int i=arr.length-1; i>=0; i--){
+            result+=arr[i]+" ";
+        }
+
+
+        System.out.println(result);
+
+
+
+
     }
 }

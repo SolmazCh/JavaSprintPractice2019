@@ -4,13 +4,14 @@ public class abc {
 
     public static void main(String[] args) {
 
-        String capital="";
-        String letter ="";
-        String result="";
+     String capital="";
+     String letter="";
+     String result="";
+
 
         for(char ch='A'; ch<='Z'; ch++){
-            capital+=ch+" ";
-        }
+         capital+=ch+" ";
+         }
 
         for(char ch='a'; ch<='z'; ch++){
             letter+=ch+" ";
@@ -21,6 +22,12 @@ public class abc {
         }
 
         System.out.println(result);
+
+
+
+
+
+
 
     }
 }

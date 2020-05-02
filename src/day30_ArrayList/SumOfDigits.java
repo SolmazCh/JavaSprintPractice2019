@@ -3,7 +3,7 @@ package day30_ArrayList;
 import java.util.Arrays;
 
 public class SumOfDigits {
-    public static void main(String[] args) {
+       public static void main(String[] args) {
 
       /*
       1. write a program that can return the sum of all the digits from a string
@@ -17,35 +17,26 @@ public class SumOfDigits {
 			HINT: on ascii table, the characters between #48 ~ #57 are digits
 
        */
+        String str = "a1b2c3";
 
-
-      String str = "a1b2c3";
-
-       char[] arr=str.toCharArray();
-
-        System.out.println(Arrays.toString(arr));
+        char[] arr=str.toCharArray();
 
         int sum =0;
+        String alphabet ="";
         for(char each: arr) {
-
-         /*   if(each>=48 && each<=57){  // from ascii table, finds if each is digit(means number from 0-9)
+            /*   if(each>=48 && each<=57){  // from ascii table, finds if each is digit(means number from 0-9)
               sum+=Integer.parseInt(each+"");
             }
          */
+            if (Character.isDigit(each)) {
+                sum += Integer.parseInt(each + "");
+            } else if (Character.isAlphabetic(each)) {
+                alphabet += each + "";
 
-         if(Character.isDigit(each)){
-             sum+=Integer.parseInt(each+"");
-         }
+            }
         }
-
-        System.out.println(sum);
-
-
-      boolean a = Character.isAlphabetic('A');
-
-
-
-
+           System.out.println(sum);
+           System.out.println(alphabet);
 
 
 
