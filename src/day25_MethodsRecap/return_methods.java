@@ -17,7 +17,6 @@ public class return_methods {
         }else{
             max =b;
         }
-
         return max;
     }
 

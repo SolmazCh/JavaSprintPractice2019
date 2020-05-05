@@ -20,12 +20,11 @@ public class dublicatesArrayList {
      */
     public static void main(String[] args) {
 
-        Predicate<Integer> dublicat = n -> n<2;
+
         ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1,1,2,3,4,5,5));
+        Predicate<Integer> nonDup = n -> Collections.frequency(list,n)<2;
 
-        int count = Collections.frequency(list,5);
-
-        list.removeIf(dublicat);
+        list.removeIf(nonDup);
         System.out.println(list);
 
 

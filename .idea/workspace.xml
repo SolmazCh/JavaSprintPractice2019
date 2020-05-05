@@ -2,35 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e2384e-029a-4eaa-a33b-704875b89869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/combineArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/removeAlltarger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/repeattwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/swapArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/timesTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/CombineTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_ContainsAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_addAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_removeAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_retainAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperations/removeDublicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Duplicates2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Lambda_Expressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Min_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Uniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/dublicateValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/dublicatesArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/moveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/moveZeros2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/moveZeros3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/uniqueFromArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/DuplicateValue_32class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Pars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/SpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Wrapperclass_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/movezeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/Refuel_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/CountryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/SpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/CapitalOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/catObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CarpetObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/PizzaObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Same_String_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Same_String_Array.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Scanner_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Scanner_Arrays.class" afterDir="false" />
@@ -44,7 +43,18 @@
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/mIxEd_CaSe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/mIxEd_CaSe.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/uniqueString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/uniqueString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/unique_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/unique_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day21_MultiDimensionalArrays/Formatting_Decimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day21_MultiDimensionalArrays/Formatting_Decimals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/evenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/evenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/forEach_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/forEach_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day23_Methods/decending_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day23_Methods/decending_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_statement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_statement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/frequency_char_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/frequency_char_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/ValueOfMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/ValueOfMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/WrapperClass_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/WrapperClass_Practice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionsMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/uniqueFromArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/uniqueFromArrayList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Same_String_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Same_String_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Scanner_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Scanner_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" afterDir="false" />
@@ -57,7 +67,20 @@
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/uniqueString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/uniqueString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/unique_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/unique_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/Formatting_Decimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/Formatting_Decimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_Loops/evenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_Loops/evenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_Loops/forEach_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_Loops/forEach_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_Methods/decending_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Methods/decending_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/return_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/return_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/return_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/return_statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/frequency_char_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/frequency_char_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/dublicatesArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/dublicatesArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/uniqueFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/uniqueFromArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,20 +118,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day33_CustomClass" />
       <recent name="day30_" />
       <recent name="Practice_HardTasks" />
       <recent name="Resources" />
       <recent name="day08_IfStatements" />
-      <recent name="Quiz_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.uniqueFromArrayList">
-    <configuration name="CollectionsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.CollectionsMethod" />
+  <component name="RunManager" selected="Application.DogObjects">
+    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.CapitalOne" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda_Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Lambda_Expressions" />
+    <configuration name="CarpetObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.CarpetObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="PATTERN" value="day34_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Min_Max" />
+    <configuration name="DogObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="PATTERN" value="day34_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Uniques" />
+    <configuration name="PizzaObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.PizzaObject" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="PATTERN" value="day34_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uniqueFromArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.uniqueFromArrayList" />
+    <configuration name="catObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day24_Methods.catObject" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="PATTERN" value="day24_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.uniqueFromArrayList" />
-        <item itemvalue="Application.Lambda_Expressions" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.Min_Max" />
-        <item itemvalue="Application.CollectionsMethod" />
+        <item itemvalue="Application.DogObjects" />
+        <item itemvalue="Application.CarpetObjects" />
+        <item itemvalue="Application.CapitalOne" />
+        <item itemvalue="Application.PizzaObject" />
+        <item itemvalue="Application.catObject" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +214,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="262" y="0" key="#Project_Structure" timestamp="1583422782594">
       <screen x="0" y="0" width="1536" height="834" />
@@ -204,51 +230,56 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="15" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1585753328212" />
-    <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588247495851">
+    <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588684946770">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587398302058" />
-    <state x="513" y="290" width="520" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588247495851" />
+    <state x="513" y="290" width="520" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588684946770" />
     <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1584029727121" />
-    <state x="438" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155957145">
+    <state x="438" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588622982277">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="438" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587155957145" />
+    <state x="438" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588622982277" />
     <state x="464" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588079457278">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="464" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588079457278" />
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1588603932711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588603932711" />
     <state x="500" y="119" key="FileChooserDialogImpl" timestamp="1587669539206">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587083853237" />
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669539206" />
-    <state width="1481" height="196" key="GridCell.Tab.0.bottom" timestamp="1588418637514">
+    <state width="1481" height="140" key="GridCell.Tab.0.bottom" timestamp="1588693608179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="196" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588418637514" />
+    <state width="1481" height="140" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
     <state width="1362" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1481" height="179" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="196" key="GridCell.Tab.0.center" timestamp="1588418637514">
+    <state width="1481" height="140" key="GridCell.Tab.0.center" timestamp="1588693608179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="196" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588418637514" />
+    <state width="1481" height="140" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
     <state width="1362" height="175" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1481" height="179" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="196" key="GridCell.Tab.0.left" timestamp="1588418637514">
+    <state width="1481" height="140" key="GridCell.Tab.0.left" timestamp="1588693608179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="196" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588418637514" />
+    <state width="1481" height="140" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
     <state width="1362" height="175" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1481" height="179" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="196" key="GridCell.Tab.0.right" timestamp="1588418637514">
+    <state width="1481" height="140" key="GridCell.Tab.0.right" timestamp="1588693608179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="196" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588418637514" />
+    <state width="1481" height="140" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
     <state width="1362" height="175" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1481" height="179" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
     <state width="1537" height="259" key="GridCell.Tab.1.bottom" timestamp="1586897184602">

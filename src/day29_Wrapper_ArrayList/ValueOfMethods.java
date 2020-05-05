@@ -18,7 +18,7 @@ public class ValueOfMethods {
 
         String str2 ="15.5";
 
-       double d1 = Double.parseDouble(str);
+       double d1 = Double.parseDouble(str2);
        // double = double // none
 
         double d2 =Double.valueOf(str2);

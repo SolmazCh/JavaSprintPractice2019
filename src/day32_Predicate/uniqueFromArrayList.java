@@ -20,12 +20,9 @@ public class uniqueFromArrayList {
      */
     public static void main(String[] args) {
 
-        Predicate<Integer> unique = p -> p!=1;
+
         ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1,1,2,3,4,5,5)); //{2,3,4}
-
-       int count = Collections.frequency(list,0);
-
-
+        Predicate<Integer> unique = p -> Collections.frequency(list, p)>1;
 
           list.removeIf(unique);
 

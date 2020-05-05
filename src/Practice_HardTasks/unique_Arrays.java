@@ -18,22 +18,6 @@ public class unique_Arrays {
         int[] arr = {1,1,2,3,3,7,8};
 
 
-        for(int each1:arr){
-            int count=0;
-
-            for(int each2:arr){
-                if (each1==each2){
-                    count++;
-                }
-            }
-            if(count==1){
-                System.out.println(each1);
-            }
-        }
-
-
-
-
 
 
 

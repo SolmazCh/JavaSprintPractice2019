@@ -20,14 +20,10 @@ public class forEach_practice {
         int sumofEven =0;
 
         for(int[] arr1D  :numbers){
-
             for(int arrElement : arr1D){
-
                 if(arrElement%2==0){
-
                     System.out.print(arrElement+" ");
                     sumofEven+=arrElement;
-
                 }else{
                     sumofOdd+=arrElement;
                     countOdd++;

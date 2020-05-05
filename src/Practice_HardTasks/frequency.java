@@ -1,5 +1,7 @@
 package Practice_HardTasks;
 
+import java.util.Collections;
+
 public class frequency {
 
     public static void main(String[] args) {
@@ -9,21 +11,14 @@ public class frequency {
         String word="solmaz";
 
 
-        int count=0;
+        int count =0;
 
         while(str.contains(word)){
             count++;
-            str=str.replaceFirst(word,"");
+           str= str.replaceFirst(word,"");
         }
 
-
         System.out.println(count);
-
-
-
-
-
-
 
     }
 }

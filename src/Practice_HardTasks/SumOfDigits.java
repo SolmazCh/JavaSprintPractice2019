@@ -17,20 +17,6 @@ public class SumOfDigits {
     public static void main(String[] args) {
 
         String str = "a2b3c1";
-        int sum =0;
-
-        char[] arr = str.toCharArray();
-
-
-        for(char each: arr){
-            if(Character.isDigit(each)){
-                sum+=each;
-            }
-        }
-
-        System.out.println(sum);
-
-
 
     }
 }

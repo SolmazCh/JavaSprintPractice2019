@@ -17,14 +17,10 @@ public class evenNumbers {
         for(int i=0; i<numbers.length; i++){
             numbers[i]=i+1;
         }
-
-
         for(int eacheven : numbers){
-
             if(eacheven%2!=0){
                 continue;
             }
-
             System.out.print(eacheven+" ");
         }
 

@@ -18,6 +18,8 @@ public class Formatting_Decimals {
 
         System.out.println(DF.format(2.34567899));
 
+        double k = 3.56784;
+        System.out.println(DF.format(k));
 
 
     }

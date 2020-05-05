@@ -18,7 +18,6 @@ public class SumOfDigits {
 
        */
         String str = "a1b2c3";
-
         char[] arr=str.toCharArray();
 
         int sum =0;

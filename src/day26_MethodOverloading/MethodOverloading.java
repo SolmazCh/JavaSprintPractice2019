@@ -12,7 +12,7 @@ public class MethodOverloading {
         System.out.println("Original method");
     }
 
-        public static void Method ( double a){
+    public static void Method ( double a){
             System.out.println("Overloaded method");
         }
 

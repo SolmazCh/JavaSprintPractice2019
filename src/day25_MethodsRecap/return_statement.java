@@ -7,11 +7,7 @@ public class return_statement {
         method2();
 
         System.out.println("Hello");
-
-
-
     }
-
 
     public static void method1() {
 
@@ -21,8 +17,6 @@ public class return_statement {
 
         System.out.println("Hello World");
     }
-
-
 
     public  static void method2(){
 

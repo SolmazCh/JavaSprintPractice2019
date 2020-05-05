@@ -14,8 +14,7 @@ public class descending {
 
         Arrays.sort(arr);
 
-        int[] arr2 = new int[arr.length];
-
+        int arr2[] =new int[arr.length];
 
         int k=0;
         for(int i=arr.length-1; i>=0; i--){
@@ -24,7 +23,6 @@ public class descending {
         }
 
         System.out.println(Arrays.toString(arr2));
-
 
     }
 }
