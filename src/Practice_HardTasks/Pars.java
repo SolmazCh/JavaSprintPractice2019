@@ -5,8 +5,9 @@ public class Pars {
 
         String str ="12345";
 
+       int i=Integer.parseInt(str);
 
-
+        System.out.println(i);
 
 
 

@@ -21,7 +21,20 @@ public class Dog {
         return result;
     }
 
+    public void sleeping(){
+        System.out.println(name+" is sleeping");
+    }
 
+    public void playing(String toy){
+        System.out.println(name+" is playing "+toy);
+    }
 
+    public void studying(String subject){
+        System.out.println(name+" is studying "+subject);
+    }
+
+    public void eating(String food){
+        System.out.println(name+" is eating "+food);
+    }
 
 }

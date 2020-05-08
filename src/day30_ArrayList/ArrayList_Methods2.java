@@ -1,6 +1,7 @@
 package day30_ArrayList;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ArrayList_Methods2 {
     public static void main(String[] args) {
@@ -48,6 +49,7 @@ public class ArrayList_Methods2 {
 
         int num1 =list2.indexOf(3);
         System.out.println(num1);
+
 
 
 

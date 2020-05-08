@@ -2,85 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e2384e-029a-4eaa-a33b-704875b89869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/DuplicateValue_32class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Pars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/SpecialCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Wrapperclass_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/movezeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/Refuel_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/CountryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/SpecialCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Uniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/catObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CarpetObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/PizzaObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/AppleINC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/DeveloperObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/TestersObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/classNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/instanceVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/BankOfAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CapitalOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Developers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/MyOffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ObjectMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/StudentObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Testers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/MyOffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/Offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/studentObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/CapitalOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/HumanResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Same_String_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Same_String_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Scanner_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Scanner_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Pars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Pars.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Stringmethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Stringmethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/SumOfDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/abc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/combinetwoarrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/combinetwoarrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/descending.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/descending.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/mIxEd_CaSe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/mIxEd_CaSe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/uniqueString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/uniqueString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/unique_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/unique_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day21_MultiDimensionalArrays/Formatting_Decimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day21_MultiDimensionalArrays/Formatting_Decimals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/evenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/evenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/forEach_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day22_Arrays_Loops/forEach_practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day23_Methods/decending_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day23_Methods/decending_array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_statement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day25_MethodsRecap/return_statement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/frequency_char_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/frequency_char_string.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/ValueOfMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/ValueOfMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/WrapperClass_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArrayList/WrapperClass_Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionsMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/uniqueFromArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/uniqueFromArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Same_String_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Same_String_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Scanner_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Scanner_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/movezeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/movezeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/ArrayList_Methods2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/ArrayList_Methods2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/DogObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/DogObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Pars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Pars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/combinetwoarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/combinetwoarrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/descending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/frequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/frequency2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/frequency2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/uniqueString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/uniqueString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/unique_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/unique_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/Formatting_Decimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/Formatting_Decimals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_Loops/evenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_Loops/evenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Arrays_Loops/forEach_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Arrays_Loops/forEach_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_Methods/decending_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_Methods/decending_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/return_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/return_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/return_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/return_statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/frequency_char_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/frequency_char_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ValueOfMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/WrapperClass_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/dublicatesArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/dublicatesArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/uniqueFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/uniqueFromArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/movezeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/movezeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,13 +102,13 @@
       <recent name="day08_IfStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogObjects">
-    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.CapitalOne" />
+  <component name="RunManager" selected="Application.Developer">
+    <configuration name="Developer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Developer" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33_CustomClass.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarpetObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.CarpetObjects" />
+    <configuration name="StaticBlock3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock3" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects" />
+    <configuration name="StaticBlock4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock4" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.PizzaObject" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Test" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="catObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24_Methods.catObject" />
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Tester" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day24_Methods.*" />
+          <option name="PATTERN" value="day36_StaticBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DogObjects" />
-        <item itemvalue="Application.CarpetObjects" />
-        <item itemvalue="Application.CapitalOne" />
-        <item itemvalue="Application.PizzaObject" />
-        <item itemvalue="Application.catObject" />
+        <item itemvalue="Application.Developer" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.StaticBlock4" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StaticBlock3" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +213,10 @@
     <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587398302058" />
     <state x="513" y="290" width="520" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588684946770" />
     <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1584029727121" />
+    <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588723444712">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588723444712" />
     <state x="438" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588622982277">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -254,32 +235,32 @@
     </state>
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587083853237" />
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669539206" />
-    <state width="1481" height="140" key="GridCell.Tab.0.bottom" timestamp="1588693608179">
+    <state width="1481" height="190" key="GridCell.Tab.0.bottom" timestamp="1588952008919">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="140" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
+    <state width="1481" height="190" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
     <state width="1362" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1481" height="179" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="140" key="GridCell.Tab.0.center" timestamp="1588693608179">
+    <state width="1481" height="190" key="GridCell.Tab.0.center" timestamp="1588952008919">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="140" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
+    <state width="1481" height="190" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
     <state width="1362" height="175" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1481" height="179" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="140" key="GridCell.Tab.0.left" timestamp="1588693608179">
+    <state width="1481" height="190" key="GridCell.Tab.0.left" timestamp="1588952008919">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="140" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
+    <state width="1481" height="190" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
     <state width="1362" height="175" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1481" height="179" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="140" key="GridCell.Tab.0.right" timestamp="1588693608179">
+    <state width="1481" height="190" key="GridCell.Tab.0.right" timestamp="1588952008919">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="140" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588693608179" />
+    <state width="1481" height="190" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
     <state width="1362" height="175" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1481" height="179" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
     <state width="1537" height="259" key="GridCell.Tab.1.bottom" timestamp="1586897184602">
@@ -319,10 +300,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="30" y="0" key="new project wizard/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669737063" />
-    <state x="284" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1587125847222">
+    <state x="284" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588950711428">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="284" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587125847222" />
+    <state x="284" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588950711428" />
     <state x="284" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1585485085805" />
   </component>
   <component name="XDebuggerManager">
@@ -407,6 +389,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day35_Static/studentObjects.java</url>
+          <line>4</line>
+          <properties class="day35_Static.studentObjects" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day36_StaticBlock/Test.java</url>
+          <line>3</line>
+          <properties class="day36_StaticBlock.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day11_Scanner/browserName.java</url>
