@@ -2,62 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e2384e-029a-4eaa-a33b-704875b89869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/AppleINC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/DeveloperObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/ScrumTeam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/TestersObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/classNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/instanceVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Developers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/MyOffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ObjectMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/StudentObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Testers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/MyOffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/studentObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/HumanResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/StaticBlock4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_HardTasks/SecondMaxNum_class32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/AlterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit_Solutions/combineNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/BankOfAzerbaijan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_StaticBlock/HumanResources2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/DuplicateValue_32class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/DuplicateValue_32class.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Pars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Pars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/SpecialCharacters.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Stringmethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/Stringmethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/combinetwoarrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/combinetwoarrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/descending.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/descending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/frequency2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/mIxEd_CaSe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/mIxEd_CaSe.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/movezeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Practice_HardTasks/movezeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/ArrayList_Methods2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/ArrayList_Methods2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/DogObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day34_CustomClass/DogObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day28_DateTime/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day28_DateTime/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day28_DateTime/Time_Formatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day28_DateTime/Time_Formatting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/ArrayList_Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/ArrayList_Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/Developer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/HumanResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/HumanResources.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/MultiClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/MultiClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/StaticBlock3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/StaticBlock3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/scrumTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day36_StaticBlock/scrumTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/DuplicateValue_32class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/DuplicateValue_32class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Pars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Pars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/SpecialCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/SpecialCharacters_class32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/Stringmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/combinetwoarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/combinetwoarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/descending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/descending.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/frequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/frequency2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/frequency2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice_HardTasks/movezeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_HardTasks/movezeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_DateTime/Dates_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates_Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_StaticBlock/MultiClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +89,13 @@
       <recent name="day08_IfStatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Developer">
-    <configuration name="Developer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Developer" />
+  <component name="RunManager" selected="Application.movezeros">
+    <configuration name="DuplicateValue_32class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.DuplicateValue_32class" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_StaticBlock.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlock3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock3" />
+    <configuration name="frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.frequency" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_StaticBlock.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlock4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.StaticBlock4" />
+    <configuration name="frequency2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.frequency2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_StaticBlock.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Test" />
+    <configuration name="mIxEd_CaSe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.mIxEd_CaSe" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_StaticBlock.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.Tester" />
+    <configuration name="movezeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_HardTasks.movezeros" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_StaticBlock.*" />
+          <option name="PATTERN" value="Practice_HardTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Developer" />
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.StaticBlock4" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StaticBlock3" />
+        <item itemvalue="Application.movezeros" />
+        <item itemvalue="Application.mIxEd_CaSe" />
+        <item itemvalue="Application.frequency2" />
+        <item itemvalue="Application.frequency" />
+        <item itemvalue="Application.DuplicateValue_32class" />
       </list>
     </recent_temporary>
   </component>
@@ -207,11 +194,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="15" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1585753328212" />
-    <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588684946770">
+    <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589028690365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587398302058" />
-    <state x="513" y="290" width="520" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588684946770" />
+    <state x="513" y="290" width="520" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1589028690365" />
     <state x="513" y="290" width="509" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1584029727121" />
     <state x="439" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588723444712">
       <screen x="0" y="0" width="1536" height="834" />
@@ -235,32 +222,32 @@
     </state>
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587083853237" />
     <state x="500" y="119" key="FileChooserDialogImpl/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669539206" />
-    <state width="1481" height="190" key="GridCell.Tab.0.bottom" timestamp="1588952008919">
+    <state width="1481" height="190" key="GridCell.Tab.0.bottom" timestamp="1589120068648">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="190" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
+    <state width="1481" height="190" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1589120068648" />
     <state width="1362" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1481" height="179" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="190" key="GridCell.Tab.0.center" timestamp="1588952008919">
+    <state width="1481" height="190" key="GridCell.Tab.0.center" timestamp="1589120068648">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="190" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
+    <state width="1481" height="190" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1589120068648" />
     <state width="1362" height="175" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1481" height="179" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="190" key="GridCell.Tab.0.left" timestamp="1588952008919">
+    <state width="1481" height="190" key="GridCell.Tab.0.left" timestamp="1589120068648">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="190" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
+    <state width="1481" height="190" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1589120068648" />
     <state width="1362" height="175" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839476" />
     <state width="1481" height="179" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
-    <state width="1481" height="190" key="GridCell.Tab.0.right" timestamp="1588952008919">
+    <state width="1481" height="190" key="GridCell.Tab.0.right" timestamp="1589120068648">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1537" height="288" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1587664228559" />
-    <state width="1481" height="190" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588952008919" />
+    <state width="1481" height="190" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1589120068648" />
     <state width="1362" height="175" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1360.738@3840.0.1360.738" timestamp="1585517839477" />
     <state width="1481" height="179" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588038314062" />
     <state width="1537" height="259" key="GridCell.Tab.1.bottom" timestamp="1586897184602">
@@ -283,6 +270,10 @@
     </state>
     <state width="1537" height="259" key="GridCell.Tab.1.right/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1586897184602" />
     <state width="895" height="244" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584066472795" />
+    <state x="339" y="51" key="NewModule_or_Project.wizard" timestamp="1588961668586">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="339" y="51" key="NewModule_or_Project.wizard/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588961668586" />
     <state x="244" y="0" key="SettingsEditor" timestamp="1585753437638">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -296,10 +287,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="0" width="927" height="834" key="find.popup/0.0.1536.834/3840.0.1360.707@0.0.1536.834" timestamp="1585753340498" />
-    <state x="30" y="0" key="new project wizard" timestamp="1587669737063">
+    <state x="30" y="0" key="new project wizard" timestamp="1588962800809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="30" y="0" key="new project wizard/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1587669737063" />
+    <state x="30" y="0" key="new project wizard/0.0.1536.834/3840.0.1360.738@0.0.1536.834" timestamp="1588962800809" />
     <state x="284" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588950711428">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -405,6 +396,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Practice_HardTasks/mIxEd_CaSe.java</url>
+          <line>3</line>
+          <properties class="Practice_HardTasks.mIxEd_CaSe" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day11_Scanner/browserName.java</url>

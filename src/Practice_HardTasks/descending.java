@@ -14,15 +14,18 @@ public class descending {
 
         Arrays.sort(arr);
 
-        int arr2[] =new int[arr.length];
+        System.out.println(Arrays.toString(arr));
+
+
+        int[] reverse = new int[arr.length];
 
         int k=0;
         for(int i=arr.length-1; i>=0; i--){
-            arr2[k]=arr[i];
+            reverse[k] =arr[i];
             k++;
         }
 
-        System.out.println(Arrays.toString(arr2));
+        System.out.println(Arrays.toString(reverse));
 
     }
 }

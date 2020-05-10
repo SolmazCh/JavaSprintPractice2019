@@ -13,7 +13,7 @@ public class Dates_Formatting {
         //days name EEE for 3 letter of day Mon or EEEE for full name of day Monday
         // you can change places of date month or year
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("EEE MMM/dd/yy");
-       LocalDate date1 =  LocalDate.now();
+        LocalDate date1 =  LocalDate.now();
         System.out.println(date1.format(dtf));
 
         DateTimeFormatter dtf2 =DateTimeFormatter.ofPattern("MM/dd/yyyy");

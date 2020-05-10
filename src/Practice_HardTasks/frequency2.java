@@ -7,14 +7,18 @@ public class frequency2 {
         String result="";
         String nonDup="";
 
+
         for(int i=0; i<str.length(); i++){
             if(!nonDup.contains(str.charAt(i)+"")){
                 nonDup+=str.charAt(i);
             }
         }
+
+        System.out.println(str);
         System.out.println(nonDup);
 
-        for(int i=0; i<nonDup.length();i++){
+
+        for(int i=0; i<nonDup.length(); i++){
             int count=0;
 
             for(int k=0; k<str.length(); k++){
@@ -22,19 +26,12 @@ public class frequency2 {
                     count++;
                 }
             }
+
             result+=nonDup.charAt(i)+""+count;
         }
 
+
         System.out.println(result);
-
-
-
-
-
-
-
-
-
 
     }
 }

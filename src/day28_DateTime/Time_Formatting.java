@@ -16,8 +16,6 @@ public class Time_Formatting {
         System.out.println(time2.format(dtf));
 
         boolean result1 =time1.isAfter(time2);
-        System.out.println(result1);
-
 
 
 

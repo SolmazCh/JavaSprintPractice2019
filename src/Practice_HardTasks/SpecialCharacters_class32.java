@@ -1,6 +1,6 @@
 package Practice_HardTasks;
 
-public class SpecialCharacters {
+public class SpecialCharacters_class32 {
      /*
     4. write a program that can extract the special characters,
     digits and alphabets from a string and stores them into separate ArrayLists of Character:

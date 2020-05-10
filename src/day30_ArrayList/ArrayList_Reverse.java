@@ -23,8 +23,6 @@ public class ArrayList_Reverse {
 
         ArrayList<Integer> reverseList = new ArrayList<>();
 
-
-
         for(int i=list.size()-1; i>=0; i--){
          int eachNum = list.get(i); //unboxing
             reverseList.add(eachNum);

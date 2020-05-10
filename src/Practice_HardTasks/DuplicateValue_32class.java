@@ -15,28 +15,23 @@ public class DuplicateValue_32class {
  */
     public static void main(String[] args) {
 
-        ArrayList<String > list = new ArrayList<>(Arrays.asList("A", "B", "A", "C", "D","D"));
+        ArrayList<String> list = new ArrayList<>();
+
+        list.addAll(Arrays.asList("A", "B", "A", "C", "D"));
+
+        ArrayList<String> nonDup = new ArrayList<>();
 
         System.out.println(list);
 
-        ArrayList<String > nonDup = new ArrayList<>();
+        list.removeIf(p-> Collections.frequency(list,p)<2);
 
-        for(String each: list) {
-            int count = Collections.frequency(list, each);
-
-            if (count== 1 && !nonDup.contains(each)) {
+        for(String each:list){
+            if(!nonDup.contains(each)){
                 nonDup.add(each);
             }
         }
-            System.out.println(nonDup);
-
-
-
-
-
-
-
-
+        System.out.println(list);
+        System.out.println(nonDup);
 
     }
 }
