@@ -1,5 +1,7 @@
 package Practice_HardTasks;
 
+import java.util.Collections;
+
 public class Wrapperclass_Practice {
      /*
     String[] arr = {"1","2.5", "3", "3.5", "4.5"}
@@ -7,8 +9,29 @@ public class Wrapperclass_Practice {
 		NOTE: Do not use sort method
      */
      public static void main(String[] args) {
+          String[] arr = {"1","2.5", "3", "3.5", "4.5"};
+
+        double max = Double.MIN_VALUE;
+
+        for(String each:arr){
+             double num=Double.parseDouble(each);
+             if(num>max){
+                  max=num;
+             }
+        }
+          System.out.println(max);
 
 
+        double min = Double.MAX_VALUE;
+
+        for(String each:arr){
+             double num=Double.parseDouble(each);
+             if(num<min){
+                  min=num;
+             }
+        }
+
+          System.out.println(min);
 
 
 

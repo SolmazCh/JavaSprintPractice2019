@@ -1,5 +1,11 @@
-package day36_StaticBlock;
-
+package day37_Constructors;
+/*1. Create a class called Employee
+        instance variables:
+        name, id, ssn, jobTitle, salary, gender
+        actions:
+        setEmployeeInfo(): can initialize all the instance variables
+        toString(): can return the info of the employee as string
+*/
 public class Employee {
 
     String name;

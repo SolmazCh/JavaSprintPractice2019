@@ -1,6 +1,13 @@
-package day36_StaticBlock;
+package day37_Constructors;
+/*
+2. create a class called HumanResources
+			declare 5 variables of Employee as static
+			use static block to:
+						1. initialize those static variables
+						2. set all the info of the Employees
 
-public class HumanResources2 {
+ */
+public class HumanResources {
 
     static Employee employee1 = new Employee();
     static Employee employee2 = new Employee();
