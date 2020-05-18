@@ -16,26 +16,20 @@ public class movezeros {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1,0,2,0,3,0,4,0));
 
-       for(int i=0; i<list.size(); i++){
-           if(list.get(i)==0){
-               list.remove(i);
-               list.add(0);
-           }
-       }
-       System.out.println(list);
 
+        for(int each: list){
+            if(each==0){
 
-        System.out.println("=============================================================");
-
-        int count = Collections.frequency(list,0);
-
-        list.removeAll(Arrays.asList(0));
-
-        for(int i=0; i<count; i++){
-            list.add(0);
+            }
         }
 
-        System.out.println(list);
+
+
+
+
+
+
+
     }
 
 }

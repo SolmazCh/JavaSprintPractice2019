@@ -7,16 +7,16 @@ if m = 15 and n = 25, then result greatest common divisor is = 5.//EBOB tapilmas
  */
 
 public class commonDivisor {
-    public static int commonDivisor(int m, int n) {
-        //WRITE YOUR CODE HERE
+    public static void main(String[] args) {
 
-        while (m != n) {
-            if (m > n) {
-                m -= n;
-            } else {
-                n -= m;
-            }
-        }
-        return n;
+
+
+
+
+
+
+
+
+
     }
 }

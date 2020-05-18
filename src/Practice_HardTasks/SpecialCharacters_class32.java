@@ -2,7 +2,6 @@ package Practice_HardTasks;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class SpecialCharacters_class32 {
      /*
@@ -16,28 +15,30 @@ public class SpecialCharacters_class32 {
      */
      public static void main(String[] args) {
 
-          String str ="ABCD123$%#@&456EFG!";
+          String str = "ABCD123$%#@&456EFG!";
 
-          ArrayList<String> digits = new ArrayList<>();
-          ArrayList<String> letters = new ArrayList<>();
-          ArrayList<String> characters = new ArrayList<>();
+          ArrayList<Character> digits = new ArrayList<>();
+          ArrayList<Character> characters =new ArrayList<>();
+          ArrayList<Character> abc = new ArrayList<>();
 
-          for(int i=0; i<str.length(); i++){
-               if(Character.isDigit(str.charAt(i))){
-                    digits.add(str.charAt(i)+"");
-               }else if(Character.isLetter(str.charAt(i))){
-                    letters.add(str.charAt(i)+"");
-               }else{
-                    characters.add(str.charAt(i)+"");
+          char[] arr = str.toCharArray();
+
+          System.out.println(Arrays.toString(arr));
+
+          for(int i=0; i<arr.length; i++){
+               if(Character.isDigit(i)){
+                    digits.add(arr[i]);
+               }else if(Character.isLetter(arr[i])){
+                    abc.add(arr[i]);
+               }else {
+                    characters.add(arr[i]);
                }
           }
 
-          System.out.println(digits);
-          System.out.println(letters);
+
           System.out.println(characters);
-
-
-
+          System.out.println(abc);
+          System.out.println(digits);
 
      }
 }

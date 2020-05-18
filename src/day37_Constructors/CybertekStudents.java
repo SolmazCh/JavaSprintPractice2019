@@ -4,14 +4,14 @@ import javax.print.DocFlavor;
 
 public class CybertekStudents {
 
- static String schoolName;
+ static String schoolName="Cybertek University";
 
     String studentName;
     int groupNumber;
     String batch;
 
     public CybertekStudents(String studentName, int groupNumber, String batch){
-        schoolName="Cybertek University";
+      //  schoolName="Cybertek University";
         this.batch=batch;
         this.groupNumber=groupNumber;
         this.studentName=studentName;

@@ -15,23 +15,6 @@ public class DuplicateValue_32class {
  */
     public static void main(String[] args) {
 
-        ArrayList<String> list = new ArrayList<>();
-
-        list.addAll(Arrays.asList("A", "B", "A", "C", "D"));
-
-        ArrayList<String> nonDup = new ArrayList<>();
-
-        System.out.println(list);
-
-        list.removeIf(p-> Collections.frequency(list,p)<2);
-
-        for(String each:list){
-            if(!nonDup.contains(each)){
-                nonDup.add(each);
-            }
-        }
-        System.out.println(list);
-        System.out.println(nonDup);
 
     }
 }

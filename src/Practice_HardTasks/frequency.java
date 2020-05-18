@@ -8,19 +8,17 @@ public class frequency {
 
         String str = "solmazsolmaz solmaz";
 
-        String str2 = "solmaz";
+        String target ="solmaz";
+
 
         int count=0;
 
-        while(str.contains(str2)){
+        while(str.contains(target)){
             count++;
-            str=str.replaceFirst(str2,"");
+            str=str.replaceFirst(target,"");
         }
 
         System.out.println(count);
-
-
-
 
     }
 }

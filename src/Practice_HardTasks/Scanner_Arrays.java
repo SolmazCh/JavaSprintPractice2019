@@ -17,17 +17,7 @@ public class Scanner_Arrays {
  */
 
     public static void main(String[] args) {
-    Scanner scan = new Scanner(System.in);
-    String[] arr = new String[5];
-        System.out.println("Enter five words");
 
-        for(int i=0; i<5; i++){
-            arr[i]=scan.next();
-        }
-
-        for(String each: arr){
-            System.out.println(each.substring(0,3));
-        }
 
 
 

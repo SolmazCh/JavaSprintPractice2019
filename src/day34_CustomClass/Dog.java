@@ -9,7 +9,7 @@ public class Dog {
     String name;
 
     public void setDogInfo(String breed, String size, int age, String color, String name){
-        this.breed=breed;
+        this.breed=breed.toUpperCase();
         this.size=size;
         this.age=age;
         this.color=color;
